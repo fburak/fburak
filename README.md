@@ -4,7 +4,7 @@
 - You can check my resume from [here](https://drive.google.com/file/d/14LFNwKUdESbY_JdjEF4gS4r3Y4ehf7y0/view?usp=sharing&embedded=true)
 
 <!--
-**fburak/fburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fbagci/fbagci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fburak&count_private=true&show_icons=true)](https://github.com/fburak/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbagci&count_private=true&show_icons=true)](https://github.com/fbagci/github-readme-stats)
 
