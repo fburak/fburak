@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- You can check my resume from [here](https://drive.google.com/file/d/14LFNwKUdESbY_JdjEF4gS4r3Y4ehf7y0/view?usp=sharing&embedded=true)
-
 <!--
 **fbagci/fbagci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
